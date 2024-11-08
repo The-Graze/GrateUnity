@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3180541961
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: monkemenubundle
+      Dependencies: {}
+    Info_1:
+      Name: lcabundle
+      Dependencies:
+        Dependency_0: monkemenubundle
+    Info_2:
+      Name: trollshieldbundle
+      Dependencies: {}
+    Info_3:
+      Name: gorillascience
+      Dependencies:
+        Dependency_0: monkemenubundle
+    Info_4:
+      Name: cppbundle
+      Dependencies: {}
+    Info_5:
+      Name: walksimulator
+      Dependencies:
+        Dependency_0: monkemenubundle
+    Info_6:
+      Name: doommusic
+      Dependencies: {}
+    Info_7:
+      Name: ghostrillabundle
+      Dependencies:
+        Dependency_0: monkemenubundle

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f5fc205ac03678e439b5e2135f29331b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: cca4c12d313d1e14183f9ba6897f63c6, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: lcabundle
+  assetBundleVariant: 

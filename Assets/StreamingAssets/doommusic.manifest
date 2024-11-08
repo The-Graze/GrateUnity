@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3126752565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9352eec2db0199a0aa6031810a5a2c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: adb522c3c7006003bd10750759c0997d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a9352eec2db0199a0aa6031810a5a2c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/DoomMusic/Doom Music.prefab
+Dependencies: []

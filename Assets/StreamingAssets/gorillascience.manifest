@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1880406768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a3ff70af058b4157bd94f0dc542079a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4a3ff70af058b4157bd94f0dc542079a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/GorillaScience/m_xRay.mat
+- Assets/BundledAssets/GorillaScience/m_Unlit.mat
+- Assets/BundledAssets/GorillaScience/Font.ttf
+- Assets/BundledAssets/GorillaScience/Fade.mat
+Dependencies:
+- D:/Unity/GorillaCosmeticsUnityProject/Assets/StreamingAssets/monkemenubundle
