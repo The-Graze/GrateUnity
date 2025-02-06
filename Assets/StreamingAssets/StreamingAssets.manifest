@@ -1,40 +1,32 @@
 ManifestFileVersion: 0
-CRC: 2685423220
+CRC: 3180541961
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: walksimulator
-      Dependencies:
-        Dependency_0: monkemenubundle
-    Info_1:
       Name: monkemenubundle
-      Dependencies:
-        Dependency_0: gratebunde
-    Info_2:
-      Name: portals
       Dependencies: {}
-    Info_3:
-      Name: trollshieldbundle
-      Dependencies: {}
-    Info_4:
+    Info_1:
       Name: lcabundle
       Dependencies:
         Dependency_0: monkemenubundle
-    Info_5:
+    Info_2:
+      Name: trollshieldbundle
+      Dependencies: {}
+    Info_3:
       Name: gorillascience
       Dependencies:
         Dependency_0: monkemenubundle
-    Info_6:
-      Name: ghostrillabundle
-      Dependencies:
-        Dependency_0: monkemenubundle
-    Info_7:
+    Info_4:
       Name: cppbundle
       Dependencies: {}
-    Info_8:
+    Info_5:
+      Name: walksimulator
+      Dependencies:
+        Dependency_0: monkemenubundle
+    Info_6:
       Name: doommusic
       Dependencies: {}
-    Info_9:
-      Name: gratebunde
+    Info_7:
+      Name: ghostrillabundle
       Dependencies:
         Dependency_0: monkemenubundle
