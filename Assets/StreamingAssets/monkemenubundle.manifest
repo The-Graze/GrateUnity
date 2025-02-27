@@ -1,15 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3415941323
+CRC: 3305699022
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5efced4b346e7261d32e5c3b69976335
+    Hash: 50d386c086c5893daef6e65ca20e57c7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 18fbcb32612719ac0b1032f25339722e
-  IncrementalBuildHash:
-    serializedVersion: 2
-    Hash: 5efced4b346e7261d32e5c3b69976335
+    Hash: b57450be8fd5d535124a4bdf46328e63
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -79,7 +76,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/BundledAssets/Bark/Rat Sword.prefab
-- Assets/BundledAssets/Bark/Materials/Material/Metal Material.mat
 - Assets/BundledAssets/Bark/Pearl.prefab
 - Assets/BundledAssets/Bark/Materials/Material/Bark Material.mat
 - Assets/BundledAssets/Bark/Sounds/Dash Activate.mp3
@@ -92,7 +88,6 @@ Assets:
 - Assets/BundledAssets/Bark/Sounds/Rocket Sound.mp3
 - Assets/BundledAssets/Bark/Materials/Material/Cloud Material.mat
 - Assets/BundledAssets/Bark/Materials/Material/Button Material.mat
-- Assets/BundledAssets/Bark/Materials/Material/m_Menu Outer.mat
 - Assets/BundledAssets/Bark/Materials/Material/Smoke Material.mat
 - Assets/BundledAssets/LCA/Materials/Color Material.mat
 - Assets/BundledAssets/Bark/Materials/Material/m_Pearl Inner.mat
@@ -109,9 +104,9 @@ Assets:
 - Assets/BundledAssets/Bark/Sounds/s_Gulp.mp3
 - Assets/BundledAssets/Bark/Materials/Material/m_SeekerTrail.mat
 - Assets/BundledAssets/Bark/Sounds/Zipline Launcher Fire.wav
-- Assets/BundledAssets/Bark/Materials/Material/m_XmasBlue.mat
 - Assets/BundledAssets/Bark/Materials/Texture/Banana Skin Texture.jpg
 - Assets/BundledAssets/Bark/Sounds/Punch.mp3
+- Assets/BundledAssets/Bark/Materials/Material/m_XmasBlue.mat
 - Assets/BundledAssets/Bark/Materials/Material/Portal Passthrough Material.mat
 - Assets/BundledAssets/Bark/Materials/Texture/Metal Texture.jpg
 - Assets/BundledAssets/Bark/Materials/Texture/Portal Render Texture B.renderTexture
@@ -169,7 +164,7 @@ Assets:
 - Assets/BundledAssets/Bark/Light Beam.prefab
 - Assets/BundledAssets/Bark/Materials/Shader/BubbleComplex.shader
 - Assets/BundledAssets/Bark/Cloud.prefab
-- Assets/BundledAssets/Bark/Materials/Material/Zipline Rope Material.mat
+- Assets/BundledAssets/Bark/Materials/Material/Checkpoint Material.mat
 - Assets/BundledAssets/Bark/Materials/Texture/Bark Outer Texture.png
 - Assets/BundledAssets/Bark/Materials/Texture/TX_matcap01.png
 - Assets/BundledAssets/Bark/Materials/Texture/Portal Render Texture A.renderTexture
@@ -177,7 +172,6 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Texture/lightfur.png
 - Assets/BundledAssets/Bark/Axes.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_Rain.mat
-- Assets/BundledAssets/Bark/Materials/Material/Checkpoint Material.mat
 - Assets/BundledAssets/Bark/Nail Gun.prefab
 - Assets/BundledAssets/Bark/Materials/Texture/Bananas Texture.png
 - Assets/BundledAssets/Bark/Potion Bottle.prefab
@@ -194,8 +188,8 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Texture/Metal034_1K_Metalness.jpg
 - Assets/BundledAssets/Bark/Materials/Texture/Planks Texture.png
 - Assets/BundledAssets/Bark/Bubble.prefab
-- Assets/BundledAssets/Bark/Materials/Material/m_Menu Inner.mat
 - Assets/BundledAssets/Bark/Halo.prefab
 - Assets/BundledAssets/Bark/Materials/Texture/Bark Inner Texture.png
 - Assets/BundledAssets/Bark/Sounds/Dash Charge.mp3
-Dependencies: []
+Dependencies:
+- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/gratebundle

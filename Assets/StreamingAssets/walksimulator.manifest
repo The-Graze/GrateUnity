@@ -1,15 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2392994821
+CRC: 1001605753
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bf6e8505383760bbaf4f6733599429cd
+    Hash: dd5c8a22d36f47739d149f473cc37a05
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7d6fc2ff65d898e92ce1231fa7248811
-  IncrementalBuildHash:
-    serializedVersion: 2
-    Hash: bf6e8505383760bbaf4f6733599429cd
+    Hash: e3015471fd8c798fad5ec853c2456b47
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -60,4 +57,4 @@ Assets:
 - Assets/BundledAssets/WalkSimulator/Override Camera.prefab
 - Assets/BundledAssets/WalkSimulator/Radial Menu.prefab
 Dependencies:
-- D:/Unity/GorillaCosmeticsUnityProject/Assets/StreamingAssets/monkemenubundle
+- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle

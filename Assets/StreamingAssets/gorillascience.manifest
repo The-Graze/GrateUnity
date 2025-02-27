@@ -1,15 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1880406768
+CRC: 3872629779
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4a3ff70af058b4157bd94f0dc542079a
+    Hash: bc5f727fea6a3c12ec9f1d6a29995bd4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9372662e05ede815898c391bbc5766da
-  IncrementalBuildHash:
-    serializedVersion: 2
-    Hash: 4a3ff70af058b4157bd94f0dc542079a
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -27,4 +24,4 @@ Assets:
 - Assets/BundledAssets/GorillaScience/Font.ttf
 - Assets/BundledAssets/GorillaScience/Fade.mat
 Dependencies:
-- D:/Unity/GorillaCosmeticsUnityProject/Assets/StreamingAssets/monkemenubundle
+- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
