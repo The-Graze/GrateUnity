@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2603109232
+CRC: 3928729885
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fca4a2cce85152dbd13fe2918d9aa3e6
+    Hash: a8fa710c8f0b073537d5d4ef0583912e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9c82dc2e80876b7eee74b25e76609ad7
@@ -83,4 +83,4 @@ Assets:
 - Assets/BundledAssets/LCA/LCA Gameboy.prefab
 - Assets/BundledAssets/LCA/Fade.mat
 Dependencies:
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
+- /home/kaylie/Projects/GrateUnity/Assets/StreamingAssets/monkemenubundle

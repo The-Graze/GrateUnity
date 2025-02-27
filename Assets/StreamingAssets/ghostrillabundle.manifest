@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2581917729
+CRC: 805259093
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fc6d0c8827ffb54983f0d39aa54e8419
+    Hash: db32822980e5b83aec26d7231de7bab8
   TypeTreeHash:
     serializedVersion: 2
     Hash: a09b1b4518ba6ed20ced6266d3dac4c5
@@ -52,4 +52,4 @@ Assets:
 - Assets/BundledAssets/Ghostrilla/Ghost.prefab
 - Assets/BundledAssets/Ghostrilla/Coconut.prefab
 Dependencies:
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
+- /home/kaylie/Projects/GrateUnity/Assets/StreamingAssets/monkemenubundle

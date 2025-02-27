@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 188514725
+CRC: 3841449833
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 48b4206651d49832c489d240e42d3974
+    Hash: f518a63836a5e072370a8d6fcb64740e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 95629a8e1976dcb266d49d07c3419307
@@ -55,4 +55,4 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Material/m_Menu Outer.mat
 - Assets/BundledAssets/Bark/Materials/Material/m_Menu Inner.mat
 Dependencies:
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
+- /home/kaylie/Projects/GrateUnity/Assets/StreamingAssets/monkemenubundle

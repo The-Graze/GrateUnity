@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3305699022
+CRC: 3995663591
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 50d386c086c5893daef6e65ca20e57c7
+    Hash: 64a6842e3f1663a215d27cf31c188a66
   TypeTreeHash:
     serializedVersion: 2
     Hash: b57450be8fd5d535124a4bdf46328e63
@@ -192,4 +192,4 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Texture/Bark Inner Texture.png
 - Assets/BundledAssets/Bark/Sounds/Dash Charge.mp3
 Dependencies:
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/gratebundle
+- /home/kaylie/Projects/GrateUnity/Assets/StreamingAssets/gratebundle
