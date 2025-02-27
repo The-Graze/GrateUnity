@@ -1,15 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2072549560
+CRC: 2581917729
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 89e76edfea2d098bedc581423cddb7b2
+    Hash: fc6d0c8827ffb54983f0d39aa54e8419
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 384fdd5eb184f5f26dd05188e7a8cf5f
-  IncrementalBuildHash:
-    serializedVersion: 2
-    Hash: 89e76edfea2d098bedc581423cddb7b2
+    Hash: a09b1b4518ba6ed20ced6266d3dac4c5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -55,4 +52,4 @@ Assets:
 - Assets/BundledAssets/Ghostrilla/Ghost.prefab
 - Assets/BundledAssets/Ghostrilla/Coconut.prefab
 Dependencies:
-- D:/Unity/GorillaCosmeticsUnityProject/Assets/StreamingAssets/monkemenubundle
+- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
