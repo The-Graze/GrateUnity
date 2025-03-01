@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4197286198
+CRC: 2562192880
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f6c0f96b9d412c4479a7b5fb800ad1b1
+    Hash: 29c8c9bf97189dce7aed8e255b6ed583
   TypeTreeHash:
     serializedVersion: 2
     Hash: a4d331224e7b201a4969210ab92a3e41
@@ -31,11 +31,17 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/BundledAssets/Bark/Materials/Texture/particles/colonthree.png
 - Assets/BundledAssets/Bark/ParticleEmitter.prefab
 - Assets/BundledAssets/Bark/Sounds/meow1.ogg
+- Assets/BundledAssets/Bark/Materials/Texture/particles/brokenstoner.png
+- Assets/BundledAssets/Bark/Materials/Texture/particles/playerid.mat
+- Assets/BundledAssets/Bark/Sounds/Bluezone-Cinematic-Session-Industrial-Samples-and-Impacts-Demo_2.wav
 - Assets/BundledAssets/Bark/Materials/Particle.mat
 - Assets/BundledAssets/Bark/Sounds/meow3.ogg
+- Assets/BundledAssets/Bark/Materials/Texture/particles/colonthree.mat
 - Assets/BundledAssets/Bark/Materials/Texture/meow.png
 - Assets/BundledAssets/Bark/Sounds/meow4.ogg
 - Assets/BundledAssets/Bark/Sounds/meow2.ogg
+- Assets/BundledAssets/Bark/Materials/Texture/particles/rock and stone.prefab
 Dependencies: []
