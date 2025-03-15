@@ -4,6 +4,7 @@ fileFormatVersion: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/HeathSystem.meta
 guid: a486b2071e62bcd4ba1408d73ec7c826
 ========
@@ -41,10 +42,17 @@ folderAsset: yes
 =======
 <<<<<<<< Updated upstream:Assets/StreamingAssets/media.manifest.meta
 guid: 11b2cd6987130784f91c24ae1005707a
+=======
+<<<<<<<< Updated upstream:Assets/StreamingAssets/subboard.manifest.meta
+guid: e086768903fa5ef4699fbb1d1862a462
+>>>>>>> Stashed changes
 ========
 guid: a486b2071e62bcd4ba1408d73ec7c826
 folderAsset: yes
 >>>>>>>> Stashed changes:Assets/HeathSystem.meta
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 DefaultImporter:
   externalObjects: {}

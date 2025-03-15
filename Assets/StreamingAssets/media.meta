@@ -1,10 +1,14 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/StreamingAssets/media.meta
 guid: 9df58d32344e6984e98a02eb7dc48402
 ========
 guid: f54d1bd14bd3ca042bd867b519fee8cc
 folderAsset: yes
 >>>>>>>> Stashed changes:Assets/TextMesh Pro.meta
+=======
+guid: 9df58d32344e6984e98a02eb7dc48402
+>>>>>>> Stashed changes
 DefaultImporter:
   externalObjects: {}
   userData: 

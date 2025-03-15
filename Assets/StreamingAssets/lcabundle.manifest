@@ -6,11 +6,19 @@ ManifestFileVersion: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 CRC: 3864033377
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: 96da36e109befb4a15170227d18fa88b
+=======
+CRC: 2803661384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f32877fa367e674db4bbc778419925da
+>>>>>>> Stashed changes
 =======
 CRC: 2803661384
 Hashes:
@@ -146,7 +154,11 @@ Dependencies:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - G:/Unity shit/GrateUnity-main/Assets/StreamingAssets/monkemenubundle
+=======
+- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
+>>>>>>> Stashed changes
 =======
 - D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
 >>>>>>> Stashed changes
