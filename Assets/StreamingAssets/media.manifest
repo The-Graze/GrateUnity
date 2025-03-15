@@ -1,4 +1,5 @@
 ManifestFileVersion: 0
+<<<<<<<< Updated upstream:Assets/StreamingAssets/media.manifest
 CRC: 779204908
 Hashes:
   AssetFileHash:
@@ -7,12 +8,18 @@ Hashes:
   TypeTreeHash:
     serializedVersion: 2
     Hash: a3b16eebe460ca56c1b355c1cbfc2735
+========
+CRC: 705368141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 503c93d7d45e494d0162fbf71881ac7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b1ad5644a043d1357bf6e034c1427b5a
+>>>>>>>> Stashed changes:Assets/StreamingAssets/grateextras.manifest
 HashAppended: 0
 ClassTypes:
-- Class: 1
-  Script: {instanceID: 0}
-- Class: 4
-  Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
 - Class: 23
@@ -25,6 +32,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+<<<<<<<< Updated upstream:Assets/StreamingAssets/media.manifest
 - Class: 65
   Script: {instanceID: 0}
 - Class: 82
@@ -32,11 +40,15 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 212
+========
+- Class: 128
+>>>>>>>> Stashed changes:Assets/StreamingAssets/grateextras.manifest
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+<<<<<<<< Updated upstream:Assets/StreamingAssets/media.manifest
 - Assets/media/prev.png
 - Assets/media/pp.mat
 - Assets/media/skip.wav
@@ -45,4 +57,9 @@ Assets:
 - Assets/media/mediaControlls.prefab
 - Assets/media/open.wav
 - Assets/media/bak.wav
+========
+- Assets/BundledAssets/Bark/Utopium-Regular.otf
+- Assets/BundledAssets/Bark/Materials/Particle.mat
+- Assets/BundledAssets/Bark/Materials/Texture/meow.png
+>>>>>>>> Stashed changes:Assets/StreamingAssets/grateextras.manifest
 Dependencies: []

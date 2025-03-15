@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/meida.unity.meta
 guid: 217887b77fc50f44c8d660af9d1436e2
+========
+guid: f54d1bd14bd3ca042bd867b519fee8cc
+folderAsset: yes
+>>>>>>>> Stashed changes:Assets/TextMesh Pro.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
