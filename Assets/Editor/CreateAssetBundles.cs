@@ -7,14 +7,7 @@ public class CreateAssetBundles
 {
     public static Dictionary<string, string> paths = new Dictionary<string, string>()
     {
-        {"lcabundle", "LightsCameraAction/Resources/lcabundle"},
-        //{"gorillascience", "GorillaScienceLib/gorillascience"},
-        {"walksimulator", "WalkSimulator/assetbundle"},
-		{"ghostrillabundle", "Ghostrilla/assetbundle"},
-        {"cppbundle", "ComputerPlusPlus/cppbundle"},
-        {"doommusic", "DoomMusic/assetbundle"},
-        {"trollshieldbundle", "TrollShield/trollshieldbundle"},
-        {"monkemenubundle", "Bark/Resources/barkbundle"},
+        {"monkemenubundle", "Grate/Resources/gratebundle"},
     };
 
     [MenuItem("Assets/Build AssetBundles")]
@@ -26,8 +19,8 @@ public class CreateAssetBundles
             Directory.CreateDirectory(assetBundleDirectory);
         }
         BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.ForceRebuildAssetBundle, EditorUserBuildSettings.activeBuildTarget);
-        string here = "D:/Unity/GorillaCosmeticsUnityProject/Assets/StreamingAssets/";
-        string there = "C:/Users/ultra/source/repos/_GorillaTag/";
+        string here = "D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/";
+        string there = "D:/repos/";
         foreach (var entry in paths)
         {
             try

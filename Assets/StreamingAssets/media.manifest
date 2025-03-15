@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 779204908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a554a23e5ab6d852dd8639ed83a9e6d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3b16eebe460ca56c1b355c1cbfc2735
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/media/prev.png
+- Assets/media/pp.mat
+- Assets/media/skip.wav
+- Assets/media/playp.png
+- Assets/media/plp.mat
+- Assets/media/mediaControlls.prefab
+- Assets/media/open.wav
+- Assets/media/bak.wav
+Dependencies: []

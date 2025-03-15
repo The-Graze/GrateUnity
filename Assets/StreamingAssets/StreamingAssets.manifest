@@ -1,5 +1,9 @@
 ManifestFileVersion: 0
+<<<<<<< Updated upstream
 CRC: 3137039401
+=======
+CRC: 3323336205
+>>>>>>> Stashed changes
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -10,8 +14,15 @@ AssetBundleManifest:
       Dependencies: {}
     Info_2:
       Name: monkemenubundle
+<<<<<<< Updated upstream
       Dependencies:
         Dependency_0: gratebundle
+=======
+      Dependencies: {}
+    Info_2:
+      Name: trollshieldbundle
+      Dependencies: {}
+>>>>>>> Stashed changes
     Info_3:
       Name: lcabundle
       Dependencies:
@@ -21,6 +32,7 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: monkemenubundle
     Info_5:
+<<<<<<< Updated upstream
       Name: gratebundle
       Dependencies:
         Dependency_0: monkemenubundle
@@ -37,4 +49,24 @@ AssetBundleManifest:
       Dependencies: {}
     Info_9:
       Name: doommusic
+=======
+      Name: ghostrillabundle
+      Dependencies:
+        Dependency_0: monkemenubundle
+    Info_6:
+      Name: cppbundle
+      Dependencies: {}
+    Info_7:
+      Name: doommusic
+      Dependencies: {}
+    Info_8:
+      Name: media
+      Dependencies: {}
+    Info_9:
+      Name: subboard
+      Dependencies:
+        Dependency_0: monkemenubundle
+    Info_10:
+      Name: heath
+>>>>>>> Stashed changes
       Dependencies: {}

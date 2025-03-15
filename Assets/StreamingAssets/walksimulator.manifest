@@ -3,7 +3,11 @@ CRC: 1001605753
 Hashes:
   AssetFileHash:
     serializedVersion: 2
+<<<<<<< Updated upstream
     Hash: 2bb1d515fe809143a1eee8c10b49ce0b
+=======
+    Hash: cec205c733230ae5a01e5c30bb112343
+>>>>>>> Stashed changes
   TypeTreeHash:
     serializedVersion: 2
     Hash: e64ab770e0a035e679e344d4446a8b24
@@ -57,4 +61,8 @@ Assets:
 - Assets/BundledAssets/WalkSimulator/Override Camera.prefab
 - Assets/BundledAssets/WalkSimulator/Radial Menu.prefab
 Dependencies:
+<<<<<<< Updated upstream
 - G:/Unity shit/GrateUnity-main/Assets/StreamingAssets/monkemenubundle
+=======
+- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
+>>>>>>> Stashed changes

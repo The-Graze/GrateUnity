@@ -1,9 +1,17 @@
 ManifestFileVersion: 0
+<<<<<<< Updated upstream
 CRC: 3864033377
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: 96da36e109befb4a15170227d18fa88b
+=======
+CRC: 2803661384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f32877fa367e674db4bbc778419925da
+>>>>>>> Stashed changes
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8af42fc3f37db6c1ee7d3fe2c6b3fed6
@@ -83,4 +91,8 @@ Assets:
 - Assets/BundledAssets/LCA/LCA Gameboy.prefab
 - Assets/BundledAssets/LCA/Fade.mat
 Dependencies:
+<<<<<<< Updated upstream
 - G:/Unity shit/GrateUnity-main/Assets/StreamingAssets/monkemenubundle
+=======
+- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
+>>>>>>> Stashed changes

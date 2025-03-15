@@ -3,7 +3,11 @@ CRC: 3440092423
 Hashes:
   AssetFileHash:
     serializedVersion: 2
+<<<<<<< Updated upstream
     Hash: fe593059bc7ab4adbc042b53036941ba
+=======
+    Hash: f06b5f8626148a6f6411250c37142b86
+>>>>>>> Stashed changes
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9372662e05ede815898c391bbc5766da
