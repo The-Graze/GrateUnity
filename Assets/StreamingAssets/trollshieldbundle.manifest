@@ -4,7 +4,11 @@ Hashes:
   AssetFileHash:
     serializedVersion: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     Hash: 43313a0bc521f2ebfc23346d48164f22
+=======
+    Hash: ecc39a68064d582c46eadb74f7719b96
+>>>>>>> Stashed changes
 =======
     Hash: ecc39a68064d582c46eadb74f7719b96
 >>>>>>> Stashed changes

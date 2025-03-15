@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/BundledAssets/Bark/Materials/Texture/particles.meta
 guid: e32b7a119a0da394eaf41b583fd9b8e9
+========
+guid: a486b2071e62bcd4ba1408d73ec7c826
+>>>>>>>> Stashed changes:Assets/HeathSystem.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/HeathSystem.meta
 guid: a486b2071e62bcd4ba1408d73ec7c826
+========
+guid: f54d1bd14bd3ca042bd867b519fee8cc
+>>>>>>>> Stashed changes:Assets/TextMesh Pro.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
