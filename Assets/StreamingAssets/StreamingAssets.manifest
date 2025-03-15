@@ -5,7 +5,11 @@ ManifestFileVersion: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 CRC: 3137039401
+=======
+CRC: 3323336205
+>>>>>>> Stashed changes
 =======
 CRC: 3323336205
 >>>>>>> Stashed changes
@@ -40,9 +44,12 @@ AssetBundleManifest:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       Dependencies:
         Dependency_0: gratebundle
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -108,6 +115,9 @@ AssetBundleManifest:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

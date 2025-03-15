@@ -2,6 +2,7 @@ fileFormatVersion: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/TextMesh Pro.meta
 guid: f54d1bd14bd3ca042bd867b519fee8cc
 ========
@@ -25,10 +26,17 @@ folderAsset: yes
 =======
 <<<<<<<< Updated upstream:Assets/StreamingAssets/heath.meta
 guid: 2f91ecc840c17ca42bf4f80e98c2a3b6
+=======
+<<<<<<<< Updated upstream:Assets/StreamingAssets/media.meta
+guid: 9df58d32344e6984e98a02eb7dc48402
+>>>>>>> Stashed changes
 ========
 guid: f54d1bd14bd3ca042bd867b519fee8cc
 folderAsset: yes
 >>>>>>>> Stashed changes:Assets/TextMesh Pro.meta
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 DefaultImporter:
   externalObjects: {}

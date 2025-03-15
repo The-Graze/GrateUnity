@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/StreamingAssets/media.manifest.meta
 guid: 11b2cd6987130784f91c24ae1005707a
+========
+guid: a486b2071e62bcd4ba1408d73ec7c826
+folderAsset: yes
+>>>>>>>> Stashed changes:Assets/HeathSystem.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
