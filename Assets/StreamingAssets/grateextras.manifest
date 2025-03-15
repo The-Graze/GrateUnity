@@ -3,11 +3,19 @@ ManifestFileVersion: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 CRC: 2562192880
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: 29c8c9bf97189dce7aed8e255b6ed583
+=======
+CRC: 705368141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 503c93d7d45e494d0162fbf71881ac7b
+>>>>>>> Stashed changes
 =======
 CRC: 705368141
 Hashes:
@@ -57,6 +65,7 @@ Assets:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Assets/BundledAssets/Bark/Materials/Texture/particles/colonthree.png
 - Assets/BundledAssets/Bark/ParticleEmitter.prefab
 - Assets/BundledAssets/Bark/Sounds/meow1.ogg
@@ -70,6 +79,11 @@ Assets:
 - Assets/BundledAssets/Bark/Sounds/meow4.ogg
 - Assets/BundledAssets/Bark/Sounds/meow2.ogg
 - Assets/BundledAssets/Bark/Materials/Texture/particles/rock and stone.prefab
+=======
+- Assets/BundledAssets/Bark/Utopium-Regular.otf
+- Assets/BundledAssets/Bark/Materials/Particle.mat
+- Assets/BundledAssets/Bark/Materials/Texture/meow.png
+>>>>>>> Stashed changes
 =======
 - Assets/BundledAssets/Bark/Utopium-Regular.otf
 - Assets/BundledAssets/Bark/Materials/Particle.mat
