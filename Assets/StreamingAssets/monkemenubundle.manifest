@@ -2,6 +2,7 @@ ManifestFileVersion: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 CRC: 3196730425
 Hashes:
   AssetFileHash:
@@ -10,6 +11,16 @@ Hashes:
   TypeTreeHash:
     serializedVersion: 2
     Hash: b9a862d643f3652c1403194232be4efc
+=======
+CRC: 2156265032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31d9ada980c50306dd1668e1b4b7e562
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09f5c189d996e9e7f7ec01ad3da17055
+>>>>>>> Stashed changes
 =======
 CRC: 2156265032
 Hashes:
@@ -82,7 +93,13 @@ ClassTypes:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+=======
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+>>>>>>> Stashed changes
 =======
   Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
 - Class: 114
@@ -231,8 +248,12 @@ Assets:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Assets/BundledAssets/Bark/Materials/Texture/particles/selfpromo.png
 - Assets/BundledAssets/Bark/Materials/Shader/BubbleSimple.shader
+=======
+- Assets/BundledAssets/Bark/Sounds/Bluezone-Cinematic-Session-Industrial-Samples-and-Impacts-Demo_2.wav
+>>>>>>> Stashed changes
 =======
 - Assets/BundledAssets/Bark/Sounds/Bluezone-Cinematic-Session-Industrial-Samples-and-Impacts-Demo_2.wav
 >>>>>>> Stashed changes
@@ -312,8 +333,14 @@ Assets:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Dependencies:
 - G:/Unity shit/GrateUnity-main/Assets/StreamingAssets/gratebundle
+=======
+- Assets/BundledAssets/Bark/Model/portal-gun/Materials/internal_ground_ao_texture.jpeg
+- Assets/BundledAssets/Bark/Halo.prefab
+Dependencies: []
+>>>>>>> Stashed changes
 =======
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/internal_ground_ao_texture.jpeg
 - Assets/BundledAssets/Bark/Halo.prefab
