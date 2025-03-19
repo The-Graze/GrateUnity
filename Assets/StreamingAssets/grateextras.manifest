@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2813939933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53d16f51b2fca0f9b2a953aab9831ce5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4d331224e7b201a4969210ab92a3e41
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/Bark/Materials/Texture/particles/colonthree.png
+- Assets/BundledAssets/Bark/Materials/Texture/particles/brokenstoner.png
+- Assets/BundledAssets/Bark/Materials/Texture/particles/playerid.mat
+- Assets/BundledAssets/Bark/Materials/Texture/particles/colonthree.mat
+- Assets/BundledAssets/Bark/Materials/Texture/particles/rock and stone.prefab
+Dependencies:
+- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle

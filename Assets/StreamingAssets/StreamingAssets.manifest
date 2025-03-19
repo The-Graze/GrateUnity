@@ -1,84 +1,17 @@
 ManifestFileVersion: 0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-CRC: 3137039401
-=======
-CRC: 3323336205
->>>>>>> Stashed changes
-=======
-CRC: 3323336205
->>>>>>> Stashed changes
-=======
-CRC: 3323336205
->>>>>>> Stashed changes
-=======
-CRC: 3323336205
->>>>>>> Stashed changes
-=======
-CRC: 3323336205
->>>>>>> Stashed changes
-=======
-CRC: 3323336205
->>>>>>> Stashed changes
-=======
-CRC: 3323336205
->>>>>>> Stashed changes
-=======
-CRC: 3323336205
->>>>>>> Stashed changes
-=======
-CRC: 3323336205
->>>>>>> Stashed changes
+CRC: 4278217584
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: grateextras
-      Dependencies: {}
-    Info_1:
-      Name: trollshieldbundle
-      Dependencies: {}
-    Info_2:
-      Name: monkemenubundle
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+      Name: walksimulator
       Dependencies:
-        Dependency_0: gratebundle
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+        Dependency_0: monkemenubundle
+    Info_1:
+      Name: monkemenubundle
       Dependencies: {}
     Info_2:
       Name: trollshieldbundle
       Dependencies: {}
->>>>>>> Stashed changes
     Info_3:
       Name: lcabundle
       Dependencies:
@@ -88,24 +21,6 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: monkemenubundle
     Info_5:
-<<<<<<< Updated upstream
-      Name: gratebundle
-      Dependencies:
-        Dependency_0: monkemenubundle
-    Info_6:
-      Name: walksimulator
-      Dependencies:
-        Dependency_0: monkemenubundle
-    Info_7:
-      Name: ghostrillabundle
-      Dependencies:
-        Dependency_0: monkemenubundle
-    Info_8:
-      Name: cppbundle
-      Dependencies: {}
-    Info_9:
-      Name: doommusic
-=======
       Name: ghostrillabundle
       Dependencies:
         Dependency_0: monkemenubundle
@@ -124,29 +39,8 @@ AssetBundleManifest:
         Dependency_0: monkemenubundle
     Info_10:
       Name: heath
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       Dependencies: {}
+    Info_11:
+      Name: grateextras
+      Dependencies:
+        Dependency_0: monkemenubundle

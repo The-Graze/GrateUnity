@@ -3,43 +3,7 @@ CRC: 3872629779
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    Hash: 31d5e3a6491676f8c2a311200de259dc
-=======
-    Hash: 07a7066db8e9d3c8780360fccfc4be6a
->>>>>>> Stashed changes
-=======
-    Hash: 07a7066db8e9d3c8780360fccfc4be6a
->>>>>>> Stashed changes
-=======
-    Hash: 07a7066db8e9d3c8780360fccfc4be6a
->>>>>>> Stashed changes
-=======
-    Hash: 07a7066db8e9d3c8780360fccfc4be6a
->>>>>>> Stashed changes
-=======
-    Hash: 07a7066db8e9d3c8780360fccfc4be6a
->>>>>>> Stashed changes
-=======
-    Hash: 07a7066db8e9d3c8780360fccfc4be6a
->>>>>>> Stashed changes
-=======
-    Hash: 07a7066db8e9d3c8780360fccfc4be6a
->>>>>>> Stashed changes
-=======
-    Hash: 07a7066db8e9d3c8780360fccfc4be6a
->>>>>>> Stashed changes
-=======
-    Hash: 07a7066db8e9d3c8780360fccfc4be6a
->>>>>>> Stashed changes
+    Hash: 3fd390389a87eedfec311bdb3e56fc4a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9372662e05ede815898c391bbc5766da
@@ -60,40 +24,4 @@ Assets:
 - Assets/BundledAssets/GorillaScience/Font.ttf
 - Assets/BundledAssets/GorillaScience/Fade.mat
 Dependencies:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-- G:/Unity shit/GrateUnity-main/Assets/StreamingAssets/monkemenubundle
-=======
 - D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes

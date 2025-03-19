@@ -1,84 +1,12 @@
 ManifestFileVersion: 0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-CRC: 3864033377
+CRC: 496572868
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 96da36e109befb4a15170227d18fa88b
-=======
-CRC: 2803661384
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: f32877fa367e674db4bbc778419925da
->>>>>>> Stashed changes
-=======
-CRC: 2803661384
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: f32877fa367e674db4bbc778419925da
->>>>>>> Stashed changes
-=======
-CRC: 2803661384
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: f32877fa367e674db4bbc778419925da
->>>>>>> Stashed changes
-=======
-CRC: 2803661384
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: f32877fa367e674db4bbc778419925da
->>>>>>> Stashed changes
-=======
-CRC: 2803661384
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: f32877fa367e674db4bbc778419925da
->>>>>>> Stashed changes
-=======
-CRC: 2803661384
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: f32877fa367e674db4bbc778419925da
->>>>>>> Stashed changes
-=======
-CRC: 2803661384
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: f32877fa367e674db4bbc778419925da
->>>>>>> Stashed changes
-=======
-CRC: 2803661384
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: f32877fa367e674db4bbc778419925da
->>>>>>> Stashed changes
-=======
-CRC: 2803661384
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: f32877fa367e674db4bbc778419925da
->>>>>>> Stashed changes
+    Hash: e098c7b1b9aa58eedd4dc6607f98f960
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8af42fc3f37db6c1ee7d3fe2c6b3fed6
+    Hash: 9c82dc2e80876b7eee74b25e76609ad7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -104,15 +32,15 @@ ClassTypes:
 - Class: 84
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 120
@@ -155,40 +83,4 @@ Assets:
 - Assets/BundledAssets/LCA/LCA Gameboy.prefab
 - Assets/BundledAssets/LCA/Fade.mat
 Dependencies:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-- G:/Unity shit/GrateUnity-main/Assets/StreamingAssets/monkemenubundle
-=======
 - D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
-=======
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/monkemenubundle
->>>>>>> Stashed changes
