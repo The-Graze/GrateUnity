@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4278217584
+CRC: 23659403
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -32,7 +32,8 @@ AssetBundleManifest:
       Dependencies: {}
     Info_8:
       Name: media
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: monkemenubundle
     Info_9:
       Name: subboard
       Dependencies:

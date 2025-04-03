@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3211c484605d4d24c94df274d6f08152
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 160
+  forceTextureCase: 1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Utopium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 47cf3d78af999f540b155249d859fe6c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: media
+  assetBundleVariant: 
