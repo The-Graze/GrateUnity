@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 23659403
+CRC: 2373430417
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -41,7 +41,3 @@ AssetBundleManifest:
     Info_10:
       Name: heath
       Dependencies: {}
-    Info_11:
-      Name: grateextras
-      Dependencies:
-        Dependency_0: monkemenubundle
