@@ -1,49 +1,13 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 guid: 069a91c811e081045a185414f8444f88
-=======
-guid: 3c5ff363d95b5d14e94e17c40be63c0a
->>>>>>> Stashed changes
-=======
-guid: 3c5ff363d95b5d14e94e17c40be63c0a
->>>>>>> Stashed changes
-=======
-guid: 3c5ff363d95b5d14e94e17c40be63c0a
->>>>>>> Stashed changes
-=======
-guid: 3c5ff363d95b5d14e94e17c40be63c0a
->>>>>>> Stashed changes
-=======
-guid: 3c5ff363d95b5d14e94e17c40be63c0a
->>>>>>> Stashed changes
-=======
-guid: 3c5ff363d95b5d14e94e17c40be63c0a
->>>>>>> Stashed changes
-=======
-guid: 3c5ff363d95b5d14e94e17c40be63c0a
->>>>>>> Stashed changes
-=======
-guid: 3c5ff363d95b5d14e94e17c40be63c0a
->>>>>>> Stashed changes
-=======
-guid: 3c5ff363d95b5d14e94e17c40be63c0a
->>>>>>> Stashed changes
 AudioImporter:
   externalObjects: {}
   serializedVersion: 7
   defaultSettings:
     serializedVersion: 2
-    loadType: 0
+    loadType: 1
     sampleRateSetting: 0
-    sampleRateOverride: 44100
+    sampleRateOverride: 0
     compressionFormat: 1
     quality: 1
     conversionMode: 0
@@ -55,41 +19,5 @@ AudioImporter:
   ambisonic: 0
   3D: 1
   userData: 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  assetBundleName: grateextras
-=======
   assetBundleName: monkemenubundle
->>>>>>> Stashed changes
-=======
-  assetBundleName: monkemenubundle
->>>>>>> Stashed changes
-=======
-  assetBundleName: monkemenubundle
->>>>>>> Stashed changes
-=======
-  assetBundleName: monkemenubundle
->>>>>>> Stashed changes
-=======
-  assetBundleName: monkemenubundle
->>>>>>> Stashed changes
-=======
-  assetBundleName: monkemenubundle
->>>>>>> Stashed changes
-=======
-  assetBundleName: monkemenubundle
->>>>>>> Stashed changes
-=======
-  assetBundleName: monkemenubundle
->>>>>>> Stashed changes
-=======
-  assetBundleName: monkemenubundle
->>>>>>> Stashed changes
   assetBundleVariant: 

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 496572868
+CRC: 1620936226
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e098c7b1b9aa58eedd4dc6607f98f960
+    Hash: 5f9e47f8075081d7f56e34618114f068
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9c82dc2e80876b7eee74b25e76609ad7
@@ -72,7 +72,6 @@ Assets:
 - Assets/BundledAssets/LCA/Dot.png
 - Assets/BundledAssets/LCA/LCA Tripod Camera.prefab
 - Assets/BundledAssets/LCA/Selfie Render.renderTexture
-- Assets/BundledAssets/LCA/Path Material.mat
 - Assets/BundledAssets/LCA/Scroll.shader
 - Assets/BundledAssets/LCA/square.png
 - Assets/BundledAssets/LCA/LCA Selfie Stick.prefab

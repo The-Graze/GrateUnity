@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2373430417
+CRC: 1098121193
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -8,7 +8,8 @@ AssetBundleManifest:
         Dependency_0: monkemenubundle
     Info_1:
       Name: monkemenubundle
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: lcabundle
     Info_2:
       Name: trollshieldbundle
       Dependencies: {}
