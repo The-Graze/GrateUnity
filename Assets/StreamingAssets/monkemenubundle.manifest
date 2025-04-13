@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1230557846
+CRC: 4047692819
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 181466996009cec5f360be4bb7e25125
+    Hash: 20f5efd795879ebdf14def9a88e6cb34
   TypeTreeHash:
     serializedVersion: 2
     Hash: 09f5c189d996e9e7f7ec01ad3da17055
@@ -127,7 +127,9 @@ Assets:
 - Assets/BundledAssets/Bark/Sounds/meow4.ogg
 - Assets/BundledAssets/Bark/Zipline Rope.prefab
 - Assets/BundledAssets/Bark/Materials/Material/Halo.mat
+- Assets/BundledAssets/Bark/Textures/goudabuda2.png
 - Assets/BundledAssets/Bark/Materials/Texture/Camo.png
+- Assets/BundledAssets/Bark/goudabuda.fbx
 - Assets/BundledAssets/Bark/BluePortal.prefab
 - Assets/BundledAssets/Bark/Materials/Material/PlumpBeetle.mat
 - Assets/BundledAssets/Bark/Materials/Material/m_XmasRed.mat
@@ -159,11 +161,10 @@ Assets:
 - Assets/BundledAssets/Bark/Axes.prefab
 - Assets/BundledAssets/Bark/Materials/Material/ice.mat
 - Assets/BundledAssets/Bark/Materials/Material/m_Rain.mat
-- Assets/BundledAssets/Bark/Model/fbx.fbx
+- Assets/BundledAssets/Bark/Materials/Material/Checkpoint Material.mat
 - Assets/BundledAssets/Bark/Nail Gun.prefab
 - Assets/BundledAssets/Bark/Materials/Texture/Zipeline Rope Texture.jpg
 - Assets/BundledAssets/Bark/Materials/Texture/Bananas Texture.png
-- Assets/BundledAssets/Bark/Materials/Material/Checkpoint Material.mat
 - Assets/BundledAssets/Bark/Portal.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_XmasGreen.mat
 - Assets/BundledAssets/Bark/Materials/Texture/TX_orb.TGA
@@ -177,12 +178,14 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Texture/TX_Flow_05.png
 - Assets/BundledAssets/Bark/Sounds/Dash Activate.mp3
 - Assets/BundledAssets/Bark/Materials/Texture/wood.png
+- Assets/BundledAssets/Bark/Textures/goudabuda1.png
 - Assets/BundledAssets/Bark/Materials/Shader/X-Ray Shader.shader
 - Assets/BundledAssets/Bark/Materials/Material/Black Material.mat
 - Assets/BundledAssets/Bark/Materials/Material/BluePortalTransparent.mat
 - Assets/BundledAssets/Bark/Materials/Texture/Materials/meow 1.mat
 - Assets/BundledAssets/Bark/Materials/Material/m_Menu Outer.mat
 - Assets/BundledAssets/Bark/Textures/brokenstoner.png
+- Assets/BundledAssets/Bark/bagHammer 1.prefab
 - Assets/BundledAssets/Bark/Textures/colonthree.png
 - Assets/BundledAssets/Bark/Sounds/Uncork.mp3
 - Assets/BundledAssets/Bark/Sounds/s_Punch.mp3
@@ -268,7 +271,7 @@ Assets:
 - Assets/BundledAssets/Bark/Halo.prefab
 - Assets/BundledAssets/Bark/Materials/Texture/Bark Inner Texture.png
 - Assets/BundledAssets/Bark/Sounds/Dash Charge.mp3
-- Assets/BundledAssets/Bark/bagHammer.prefab
+- Assets/BundledAssets/Bark/Model/hammerofbag.prefab
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/internal_ground_ao_texture.jpeg
 Dependencies:
-- D:/Graze/Documents/GitHub/GrateUnity/Assets/StreamingAssets/lcabundle
+- C:/Users/CDub/Documents/grah tay/GrateUnity/Assets/StreamingAssets/lcabundle
