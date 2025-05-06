@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3998404965
+CRC: 3307464196
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -7,27 +7,27 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: lcabundle
     Info_1:
-      Name: gorillascience
-      Dependencies:
-        Dependency_0: monkemenubundle
-    Info_2:
       Name: walksimulator
       Dependencies:
         Dependency_0: monkemenubundle
-    Info_3:
-      Name: subboard
+    Info_2:
+      Name: media
       Dependencies:
         Dependency_0: monkemenubundle
-    Info_4:
+    Info_3:
       Name: lcabundle
       Dependencies:
         Dependency_0: monkemenubundle
+    Info_4:
+      Name: subboard
+      Dependencies:
+        Dependency_0: monkemenubundle
     Info_5:
-      Name: ghostrillabundle
+      Name: gorillascience
       Dependencies:
         Dependency_0: monkemenubundle
     Info_6:
-      Name: media
+      Name: ghostrillabundle
       Dependencies:
         Dependency_0: monkemenubundle
     Info_7:

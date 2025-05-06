@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1502162700
+CRC: 3545341661
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6fda5b827f80c6f19fddc2ac20f8e722
+    Hash: 5232f3f6fe1681bddad8e0d6ccb2aa81
   TypeTreeHash:
     serializedVersion: 2
     Hash: 09f5c189d996e9e7f7ec01ad3da17055
@@ -220,6 +220,7 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Material/m_XrayGreen.mat
 - Assets/BundledAssets/Bark/Model/only fans.fbx
 - Assets/BundledAssets/Bark/Materials/Texture/Metal034_1K_Normal.jpg
+- Assets/BundledAssets/Bark/Blank.prefab
 - Assets/BundledAssets/Bark/Materials/Material/Laser Sight Material.mat
 - Assets/BundledAssets/Bark/Materials/Texture/TX_Flow_103_D.png
 - Assets/BundledAssets/Bark/Materials/Shader/bubbleshad.shadergraph
@@ -277,4 +278,4 @@ Assets:
 - Assets/BundledAssets/Bark/Model/hammerofbag.prefab
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/internal_ground_ao_texture.jpeg
 Dependencies:
-- C:/Users/CDub/Documents/grah tay/GrateUnity/Assets/StreamingAssets/lcabundle
+- D:/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/lcabundle
