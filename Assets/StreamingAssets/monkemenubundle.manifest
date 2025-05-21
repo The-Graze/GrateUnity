@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3545341661
+CRC: 3884421248
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5232f3f6fe1681bddad8e0d6ccb2aa81
+    Hash: 4040f95dcbd89a05ec224d3e5a24ea02
   TypeTreeHash:
     serializedVersion: 2
     Hash: 09f5c189d996e9e7f7ec01ad3da17055
@@ -268,6 +268,7 @@ Assets:
 - Assets/BundledAssets/Bark/Doug.prefab
 - Assets/BundledAssets/Bark/Bag Hammer/a.mat
 - Assets/BundledAssets/Bark/Sounds/BluePortal.mp3
+- Assets/BundledAssets/Bark/supporter Variant.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_Invisible.mat
 - Assets/BundledAssets/Bark/Materials/Texture/Planks Texture.png
 - Assets/BundledAssets/Bark/BubbleP.prefab

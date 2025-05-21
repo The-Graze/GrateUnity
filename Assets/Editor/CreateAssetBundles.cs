@@ -8,6 +8,7 @@ public class CreateAssetBundles
     public static Dictionary<string, string> paths = new Dictionary<string, string>()
     {
         {"monkemenubundle", "Grate/Grate/Resources/gratebundle"},
+        {"popit", "GorillaPopit/GorillaPopit/Res/popit" }
     };
 
     [MenuItem("Assets/Build AssetBundles")]
@@ -25,7 +26,7 @@ public class CreateAssetBundles
         {
             try
             {
-                System.IO.File.Copy(here + entry.Key, there + entry.Value, true);
+                File.Copy(here + entry.Key, there + entry.Value, true);
                 Debug.Log($"Exported {entry.Key} to {there + entry.Value}");
             }
             catch (Exception e)
