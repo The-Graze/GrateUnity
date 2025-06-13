@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2603727030
+CRC: 523536325
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a5cd015f46b92a03f5890dfba996139b
+    Hash: 43765f229abc63158176cebe09b677be
   TypeTreeHash:
     serializedVersion: 2
     Hash: 09f5c189d996e9e7f7ec01ad3da17055
@@ -176,6 +176,7 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Texture/particles/colonthree.mat
 - Assets/BundledAssets/Bark/Materials/Texture/Metal034_1K_Metalness.jpg
 - Assets/BundledAssets/Bark/RenderTextures/PortalBlueOutput.renderTexture
+- Assets/BundledAssets/Bark/Materials/devMat.mat
 - Assets/BundledAssets/Bark/Rat Sword.prefab
 - Assets/BundledAssets/Bark/Materials/Material/Metal Material.mat
 - Assets/BundledAssets/Bark/Textures/BluePortalTransparent.png
@@ -260,8 +261,8 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Texture/lightfur.png
 - Assets/BundledAssets/Bark/Shaders/Portal.shadergraph
 - Assets/BundledAssets/Bark/cheese.prefab
-- Assets/BundledAssets/Bark/Potion Bottle.prefab
 - Assets/BundledAssets/Bark/Materials/Texture/Materials/meow.mat
+- Assets/BundledAssets/Bark/Potion Bottle.prefab
 - Assets/BundledAssets/Bark/Sounds/s_Ahhh.mp3
 - Assets/BundledAssets/Bark/Materials/Material/Portal A Material.mat
 - Assets/BundledAssets/Bark/Firefly.prefab
