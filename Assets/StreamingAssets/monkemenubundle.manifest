@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3884421248
+CRC: 3265106959
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4040f95dcbd89a05ec224d3e5a24ea02
+    Hash: 6187336a725435b211e60977cade321a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 09f5c189d996e9e7f7ec01ad3da17055
@@ -115,6 +115,7 @@ Assets:
 - Assets/BundledAssets/Bark/RenderTextures/Materials/PortalBlueOutput.mat
 - Assets/BundledAssets/Bark/Materials/Material/Portal Passthrough Material.mat
 - Assets/BundledAssets/Bark/Sounds/Thruster.mp3
+- Assets/BundledAssets/Bark/Textures/Trusted.png
 - Assets/BundledAssets/Bark/Utopium-Regular.otf
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/PORTAL_GUN_Roughness.png
 - Assets/BundledAssets/Bark/Materials/Material/Portal B Material.mat
@@ -143,6 +144,7 @@ Assets:
 - Assets/BundledAssets/Bark/Model/Portal.fbx
 - Assets/BundledAssets/Bark/Materials/Texture/particles/playerid.mat
 - Assets/BundledAssets/Bark/Sounds/s_Telekinesis.mp3
+- Assets/BundledAssets/Bark/Model/PHONE.fbx
 - Assets/BundledAssets/Bark/Materials/Material/complex.mat
 - Assets/BundledAssets/Bark/Materials/Texture/wood.jpg
 - Assets/BundledAssets/Bark/Sounds/Bluezone-Cinematic-Session-Industrial-Samples-and-Impacts-Demo_2.wav
@@ -270,6 +272,7 @@ Assets:
 - Assets/BundledAssets/Bark/Sounds/BluePortal.mp3
 - Assets/BundledAssets/Bark/supporter Variant.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_Invisible.mat
+- Assets/BundledAssets/Bark/Textures/dev.png
 - Assets/BundledAssets/Bark/Materials/Texture/Planks Texture.png
 - Assets/BundledAssets/Bark/BubbleP.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_Menu Inner.mat
@@ -279,4 +282,4 @@ Assets:
 - Assets/BundledAssets/Bark/Model/hammerofbag.prefab
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/internal_ground_ao_texture.jpeg
 Dependencies:
-- D:/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/lcabundle
+- C:/Users/CDub/Documents/grah tay/GrateUnity/Assets/StreamingAssets/lcabundle
