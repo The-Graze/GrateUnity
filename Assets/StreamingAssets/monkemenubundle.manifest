@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 878378258
+CRC: 4052676807
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f771ca277d042bd76c73f7e87597aa5e
+    Hash: be77cccd814035afdf84a5ab2b0a86aa
   TypeTreeHash:
     serializedVersion: 2
     Hash: 09f5c189d996e9e7f7ec01ad3da17055
@@ -115,6 +115,8 @@ Assets:
 - Assets/BundledAssets/Bark/RenderTextures/Materials/PortalBlueOutput.mat
 - Assets/BundledAssets/Bark/Materials/Material/Portal Passthrough Material.mat
 - Assets/BundledAssets/Bark/Sounds/Thruster.mp3
+- Assets/BundledAssets/Bark/Textures/Trusted.png
+- Assets/BundledAssets/Bark/Model/DEVPHONE.prefab
 - Assets/BundledAssets/Bark/Utopium-Regular.otf
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/PORTAL_GUN_Roughness.png
 - Assets/BundledAssets/Bark/Materials/Material/Portal B Material.mat
@@ -143,6 +145,7 @@ Assets:
 - Assets/BundledAssets/Bark/Model/Portal.fbx
 - Assets/BundledAssets/Bark/Materials/Texture/particles/playerid.mat
 - Assets/BundledAssets/Bark/Sounds/s_Telekinesis.mp3
+- Assets/BundledAssets/Bark/Model/PHONE.fbx
 - Assets/BundledAssets/Bark/Materials/Material/complex.mat
 - Assets/BundledAssets/Bark/Materials/Texture/wood.jpg
 - Assets/BundledAssets/Bark/Sounds/Bluezone-Cinematic-Session-Industrial-Samples-and-Impacts-Demo_2.wav
@@ -174,6 +177,7 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Texture/particles/colonthree.mat
 - Assets/BundledAssets/Bark/Materials/Texture/Metal034_1K_Metalness.jpg
 - Assets/BundledAssets/Bark/RenderTextures/PortalBlueOutput.renderTexture
+- Assets/BundledAssets/Bark/Materials/devMat.mat
 - Assets/BundledAssets/Bark/Rat Sword.prefab
 - Assets/BundledAssets/Bark/Materials/Material/Metal Material.mat
 - Assets/BundledAssets/Bark/Textures/BluePortalTransparent.png
@@ -258,8 +262,8 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Texture/lightfur.png
 - Assets/BundledAssets/Bark/Shaders/Portal.shadergraph
 - Assets/BundledAssets/Bark/cheese.prefab
-- Assets/BundledAssets/Bark/Potion Bottle.prefab
 - Assets/BundledAssets/Bark/Materials/Texture/Materials/meow.mat
+- Assets/BundledAssets/Bark/Potion Bottle.prefab
 - Assets/BundledAssets/Bark/Sounds/s_Ahhh.mp3
 - Assets/BundledAssets/Bark/Materials/Material/Portal A Material.mat
 - Assets/BundledAssets/Bark/Firefly.prefab
@@ -270,6 +274,7 @@ Assets:
 - Assets/BundledAssets/Bark/Sounds/BluePortal.mp3
 - Assets/BundledAssets/Bark/supporter Variant.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_Invisible.mat
+- Assets/BundledAssets/Bark/Textures/dev.png
 - Assets/BundledAssets/Bark/Materials/Texture/Planks Texture.png
 - Assets/BundledAssets/Bark/BubbleP.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_Menu Inner.mat

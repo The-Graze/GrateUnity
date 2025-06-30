@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1433860708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63b7ffae43ea92a75efe1da018b46db9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4ee9d6737c77e75f48d7661cb3eaeb1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Blood/dude2.prefab
+- Assets/Blood/bloodSprite.png
+- Assets/Blood/dude modle.fbx
+- Assets/Blood/fur.png
+- Assets/Blood/bloodFur.mat
+Dependencies: []
