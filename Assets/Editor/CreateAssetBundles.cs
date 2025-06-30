@@ -20,7 +20,7 @@ public class CreateAssetBundles
             Directory.CreateDirectory(assetBundleDirectory);
         }
         BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.ForceRebuildAssetBundle, EditorUserBuildSettings.activeBuildTarget);
-        string here = "D:/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/";
+        string here = "C:/Users/CDub/Documents/grah tay/GrateUnity/Assets/StreamingAssets/";
         string there = "D:/repos/";
         foreach (var entry in paths)
         {
