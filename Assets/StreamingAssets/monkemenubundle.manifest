@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4052676807
+CRC: 3359421742
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: be77cccd814035afdf84a5ab2b0a86aa
+    Hash: eee1703145f8fd40b2be7071d6d87a01
   TypeTreeHash:
     serializedVersion: 2
     Hash: 09f5c189d996e9e7f7ec01ad3da17055
@@ -144,8 +144,8 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Shader/BubbleSimple.shader
 - Assets/BundledAssets/Bark/Model/Portal.fbx
 - Assets/BundledAssets/Bark/Materials/Texture/particles/playerid.mat
-- Assets/BundledAssets/Bark/Sounds/s_Telekinesis.mp3
 - Assets/BundledAssets/Bark/Model/PHONE.fbx
+- Assets/BundledAssets/Bark/Sounds/s_Telekinesis.mp3
 - Assets/BundledAssets/Bark/Materials/Material/complex.mat
 - Assets/BundledAssets/Bark/Materials/Texture/wood.jpg
 - Assets/BundledAssets/Bark/Sounds/Bluezone-Cinematic-Session-Industrial-Samples-and-Impacts-Demo_2.wav

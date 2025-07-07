@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1714225860
+CRC: 2382879138
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 336d3dfd8019a4715fd36ee9463b744a
+    Hash: 53de78cb7ed8eab4ad9a3d87402466f7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: fb3e1a51942c252ef5c22332ec2c25b2
+    Hash: 9c5fd68de44778fd6b854a7f8f86b37c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,16 +15,18 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
   Script: {instanceID: 0}
 - Class: 212
   Script: {instanceID: 0}
-- Class: 213
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/HeathSystem/DamageSound.prefab
 - Assets/HeathSystem/heath.prefab
+- Assets/HeathSystem/hit sound.mp3
 - Assets/HeathSystem/sprite.mat
 Dependencies: []
