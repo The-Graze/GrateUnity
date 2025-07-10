@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3359421742
+CRC: 3022932051
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eee1703145f8fd40b2be7071d6d87a01
+    Hash: 1049085f01cf4c1c47b9745b0ebbef52
   TypeTreeHash:
     serializedVersion: 2
     Hash: 09f5c189d996e9e7f7ec01ad3da17055
@@ -136,6 +136,7 @@ Assets:
 - Assets/BundledAssets/Bark/goudabuda.fbx
 - Assets/BundledAssets/Bark/BluePortal.prefab
 - Assets/BundledAssets/Bark/Materials/Material/PlumpBeetle.mat
+- Assets/BundledAssets/Bark/bat Variant.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_XmasRed.mat
 - Assets/BundledAssets/Bark/Materials/Material/m_TK Sparkles.mat
 - Assets/BundledAssets/Bark/Materials/Material/m_BoxingGlove.mat
@@ -157,6 +158,7 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Texture/PlumpBeetle.png
 - Assets/BundledAssets/Bark/Materials/Material/Banana Tiled Material.mat
 - Assets/BundledAssets/Bark/portal gun.fbx
+- Assets/BundledAssets/Bark/Sounds/Bonk-Sound-effect.mp3
 - Assets/BundledAssets/Bark/Light Beam.prefab
 - Assets/BundledAssets/Bark/Materials/Material/OrangePortalTransparent.mat
 - Assets/BundledAssets/Bark/Materials/Material/Zipline Rope Material.mat
@@ -202,6 +204,7 @@ Assets:
 - Assets/BundledAssets/Bark/Zipline Launcher.prefab
 - Assets/BundledAssets/Bark/Materials/Texture/tx_Planks.png
 - Assets/BundledAssets/Bark/Materials/Texture/TX_chrome.png
+- Assets/BundledAssets/Bark/bat.fbx
 - Assets/BundledAssets/Bark/RenderTextures/Materials/OrangePortalOutput.mat
 - Assets/BundledAssets/Bark/Materials/Material/m_SeekerTrail.mat
 - Assets/BundledAssets/Bark/Sounds/OrangePortal.mp3
@@ -284,4 +287,4 @@ Assets:
 - Assets/BundledAssets/Bark/Model/hammerofbag.prefab
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/internal_ground_ao_texture.jpeg
 Dependencies:
-- D:/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/lcabundle
+- C:/Users/CDub/Documents/grah tay/GrateUnity/Assets/StreamingAssets/lcabundle
