@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1854106599
+CRC: 1723685518
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cc701affd7a96235d22bf6474dd2833c
+    Hash: c496b2abf85567c1938aff933da3bf82
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 09f5c189d996e9e7f7ec01ad3da17055
+    Hash: 189354e5f22594bf02678bc9cc4b66bf
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -75,6 +75,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 224
   Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Unity.RenderPipelines.Universal.Runtime
   ClassName: UnityEngine.Rendering.Universal.TemporalAA/Settings
@@ -85,6 +87,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
+- Assets/BundledAssets/Bark/Wing/ShadowWings.prefab
 - Assets/BundledAssets/Bark/only fans Variant.prefab
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/No Name.mat
 - Assets/BundledAssets/Bark/Pearl.prefab
@@ -108,6 +111,7 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/No Name.mat
 - Assets/BundledAssets/Bark/bs.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_Pearl Trail.mat
+- Assets/BundledAssets/Bark/Wing/Wings.fbx
 - Assets/BundledAssets/Bark/TK Hitbox.prefab
 - Assets/BundledAssets/Bark/Sounds/s_Gulp.mp3
 - Assets/BundledAssets/Bark/Sounds/Portal 2 Sound Effects - Portal Gun_ Fire Blue
@@ -172,6 +176,7 @@ Assets:
 - Assets/BundledAssets/Bark/Nail Gun.prefab
 - Assets/BundledAssets/Bark/Materials/Texture/Zipeline Rope Texture.jpg
 - Assets/BundledAssets/Bark/Materials/Texture/Bananas Texture.png
+- Assets/BundledAssets/Bark/WaterGun.fbx
 - Assets/BundledAssets/Bark/Portal.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_XmasGreen.mat
 - Assets/BundledAssets/Bark/Materials/Texture/TX_orb.TGA
@@ -180,6 +185,7 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Texture/Metal034_1K_Metalness.jpg
 - Assets/BundledAssets/Bark/RenderTextures/PortalBlueOutput.renderTexture
 - Assets/BundledAssets/Bark/Materials/devMat.mat
+- Assets/BundledAssets/Bark/Materials/Screen.mat
 - Assets/BundledAssets/Bark/Rat Sword.prefab
 - Assets/BundledAssets/Bark/Materials/Material/Metal Material.mat
 - Assets/BundledAssets/Bark/Textures/BluePortalTransparent.png
@@ -239,6 +245,7 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Texture/particles/colonthree.png
 - Assets/BundledAssets/Bark/Shaders/Portal.mat
 - Assets/BundledAssets/Bark/Ice.prefab
+- Assets/BundledAssets/Bark/Wing/Wings.png
 - Assets/BundledAssets/Bark/Materials/Texture/particles/brokenstoner.png
 - Assets/BundledAssets/Bark/OrangePortal.prefab
 - Assets/BundledAssets/Bark/Materials/Texture/TX_avatar_01.png
@@ -253,6 +260,7 @@ Assets:
 - Assets/BundledAssets/Bark/Materials/Particle.mat
 - Assets/Meshes/Bubble.blend
 - Assets/BundledAssets/Bark/Sounds/s_Nail Gun.mp3
+- Assets/BundledAssets/Bark/GrazeTV.prefab
 - Assets/BundledAssets/Bark/Bark Platform.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_XrayBlue.mat
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/No Name 1.mat
@@ -264,17 +272,19 @@ Assets:
 - Assets/BundledAssets/Bark/RenderTextures/OrangePortalOutput.renderTexture
 - Assets/BundledAssets/Bark/Materials/Texture/lightfur.png
 - Assets/BundledAssets/Bark/Shaders/Portal.shadergraph
+- Assets/BundledAssets/Bark/Wing/Materials/Material.mat
 - Assets/BundledAssets/Bark/cheese.prefab
 - Assets/BundledAssets/Bark/Materials/Texture/Materials/meow.mat
 - Assets/BundledAssets/Bark/Potion Bottle.prefab
 - Assets/BundledAssets/Bark/Sounds/s_Ahhh.mp3
+- Assets/BundledAssets/Bark/Materials/bla.mat
 - Assets/BundledAssets/Bark/Materials/Material/Portal A Material.mat
-- Assets/BundledAssets/Bark/Firefly.prefab
 - Assets/BundledAssets/Bark/Materials/Material/Gorilla Material.mat
-- Assets/BundledAssets/Bark/Model/portal-gun/Materials/BaseColor.png
+- Assets/BundledAssets/Bark/Firefly.prefab
 - Assets/BundledAssets/Bark/Doug.prefab
 - Assets/BundledAssets/Bark/Bag Hammer/a.mat
 - Assets/BundledAssets/Bark/Sounds/BluePortal.mp3
+- Assets/BundledAssets/Bark/Model/portal-gun/Materials/BaseColor.png
 - Assets/BundledAssets/Bark/supporter Variant.prefab
 - Assets/BundledAssets/Bark/Materials/Material/m_Invisible.mat
 - Assets/BundledAssets/Bark/Textures/dev.png
@@ -287,4 +297,4 @@ Assets:
 - Assets/BundledAssets/Bark/Model/hammerofbag.prefab
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/internal_ground_ao_texture.jpeg
 Dependencies:
-- C:/Users/CDub/Documents/grah tay/GrateUnity/Assets/StreamingAssets/lcabundle
+- D:/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/lcabundle

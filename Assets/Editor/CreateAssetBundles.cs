@@ -7,8 +7,7 @@ public class CreateAssetBundles
 {
     public static Dictionary<string, string> paths = new Dictionary<string, string>()
     {
-        {"monkemenubundle", "Grate/Grate/Resources/gratebundle"},
-        {"popit", "GorillaPopit/GorillaPopit/Res/popit" }
+        {"monkemenubundle", "Grate/Grate/Resources/gratebundle"}
     };
 
     [MenuItem("Assets/Build AssetBundles")]
@@ -20,7 +19,7 @@ public class CreateAssetBundles
             Directory.CreateDirectory(assetBundleDirectory);
         }
         BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.ForceRebuildAssetBundle, EditorUserBuildSettings.activeBuildTarget);
-        string here = "C:/Users/CDub/Documents/grah tay/GrateUnity/Assets/StreamingAssets/";
+        string here = "D:/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/";
         string there = "D:/repos/";
         foreach (var entry in paths)
         {
