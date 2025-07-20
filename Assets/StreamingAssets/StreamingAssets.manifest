@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3133668457
+CRC: 3758693480
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -47,4 +47,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_12:
       Name: bloodmat
+      Dependencies: {}
+    Info_13:
+      Name: skellybundle
       Dependencies: {}

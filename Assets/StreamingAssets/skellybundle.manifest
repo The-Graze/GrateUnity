@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3054933357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fca1d4d290a6abb00bed6cf3ac4f4f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4668332d75eb6519379fa4f8c43b7d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BePrepared/Skelly.prefab
+Dependencies: []

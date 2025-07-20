@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1723685518
+CRC: 4056393346
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c496b2abf85567c1938aff933da3bf82
+    Hash: 5228aed6557278c3c7717b7d81eb3661
   TypeTreeHash:
     serializedVersion: 2
     Hash: 189354e5f22594bf02678bc9cc4b66bf
@@ -297,4 +297,4 @@ Assets:
 - Assets/BundledAssets/Bark/Model/hammerofbag.prefab
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/internal_ground_ao_texture.jpeg
 Dependencies:
-- D:/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/lcabundle
+- /run/media/graze/Big/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/lcabundle
