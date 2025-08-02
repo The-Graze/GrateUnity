@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2159819465
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11786a791657aabd06bc915ad5b27aa2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 00e5b91d93917f19ed01769211de70e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BePrepared/grave.prefab
+Dependencies: []
