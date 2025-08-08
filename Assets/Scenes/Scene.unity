@@ -319,12 +319,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 4830864507266618283}
   m_PrefabAsset: {fileID: 0}
---- !u!82 &314313271 stripped
-AudioSource:
-  m_CorrespondingSourceObject: {fileID: 5765301670184984878, guid: adfca6a332691d74592d3c4d2400ffc0,
-    type: 3}
-  m_PrefabInstance: {fileID: 9113970197260750071}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &409159195
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -706,7 +700,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &726515685
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3210,6 +3204,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: grave
       objectReference: {fileID: 0}
+    - target: {fileID: 5247711803957115600, guid: 11d25ced32284a5a7ade9b1f18427c15,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6578504705464355092, guid: 11d25ced32284a5a7ade9b1f18427c15,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -5357,60 +5356,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4929230517743266796, guid: adfca6a332691d74592d3c4d2400ffc0,
-        type: 3}
-      propertyPath: m_TargetAudioSources.Array.data[0]
-      value: 
-      objectReference: {fileID: 314313271}
-    - target: {fileID: 5765301670184984878, guid: adfca6a332691d74592d3c4d2400ffc0,
-        type: 3}
-      propertyPath: m_Volume
-      value: 0.128
-      objectReference: {fileID: 0}
     - target: {fileID: 5765301670184984878, guid: adfca6a332691d74592d3c4d2400ffc0,
         type: 3}
       propertyPath: MaxDistance
-      value: 2.5875068
+      value: 7.3213425
       objectReference: {fileID: 0}
     - target: {fileID: 5765301670184984878, guid: adfca6a332691d74592d3c4d2400ffc0,
         type: 3}
       propertyPath: MinDistance
-      value: 1.8573573
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765301670184984878, guid: adfca6a332691d74592d3c4d2400ffc0,
-        type: 3}
-      propertyPath: BypassEffects
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765301670184984878, guid: adfca6a332691d74592d3c4d2400ffc0,
-        type: 3}
-      propertyPath: m_PlayOnAwake
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765301670184984878, guid: adfca6a332691d74592d3c4d2400ffc0,
-        type: 3}
-      propertyPath: BypassReverbZones
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765301670184984878, guid: adfca6a332691d74592d3c4d2400ffc0,
-        type: 3}
-      propertyPath: BypassListenerEffects
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765301670184984878, guid: adfca6a332691d74592d3c4d2400ffc0,
-        type: 3}
-      propertyPath: spreadCustomCurve.m_Curve.Array.data[0].value
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765301670184984878, guid: adfca6a332691d74592d3c4d2400ffc0,
-        type: 3}
-      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765301670184984878, guid: adfca6a332691d74592d3c4d2400ffc0,
-        type: 3}
-      propertyPath: reverbZoneMixCustomCurve.m_Curve.Array.data[0].value
-      value: 0
+      value: 7.3213415
       objectReference: {fileID: 0}
     - target: {fileID: 8384664103975223298, guid: adfca6a332691d74592d3c4d2400ffc0,
         type: 3}
@@ -5571,7 +5525,7 @@ PrefabInstance:
     - target: {fileID: 8122543181963359818, guid: 03a54ebccaf62744dac6e922d211d436,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
