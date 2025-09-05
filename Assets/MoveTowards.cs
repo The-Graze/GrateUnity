@@ -32,8 +32,8 @@ public class MoveTowards : MonoBehaviour
             //direction *= speed;
             //_rigidbody.MovePosition(targetPosition + misalignment);
             Vector3 misalignment = _rigidbody.position - body.position;
-            _rigidbody.velocity = Vector3.Lerp(
-                _rigidbody.velocity, 
+            _rigidbody.linearVelocity = Vector3.Lerp(
+                _rigidbody.linearVelocity, 
                 (target.position - body.position + misalignment) * speed, 
                 smoothing
             );
@@ -79,7 +79,7 @@ public class MoveTowards : MonoBehaviour
     void old()
     {
         Vector3 offset = _rigidbody.position - body.position;
-        Vector3 velocity = _rigidbody.velocity;
+        Vector3 velocity = _rigidbody.linearVelocity;
         var targetPosition = target.position;
 
         _rigidbody.position = Vector3.SmoothDamp(

@@ -1,12 +1,16 @@
 ManifestFileVersion: 0
-CRC: 1435898541
+UnityVersion: 6000.1.9f1
+CRC: 752019185
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 15e3b96896e2dd3feaf5c55b2afe6b72
+    Hash: 441b805128b086ec384ada515f58f637
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a09b1b4518ba6ed20ced6266d3dac4c5
+    Hash: b620a08fff76b0be753b199d1df2d106
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bbad3eb91b7033565dec9f88b23c2807
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,11 +30,11 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -52,4 +56,4 @@ Assets:
 - Assets/BundledAssets/Ghostrilla/Ghost.prefab
 - Assets/BundledAssets/Ghostrilla/Coconut.prefab
 Dependencies:
-- C:/Users/CDub/Documents/grah tay/GrateUnity/Assets/StreamingAssets/monkemenubundle
+- D:/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/monkemenubundle

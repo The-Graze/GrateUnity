@@ -19,8 +19,8 @@ public class CreateAssetBundles
             Directory.CreateDirectory(assetBundleDirectory);
         }
         BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.ForceRebuildAssetBundle, EditorUserBuildSettings.activeBuildTarget);
-        string here = "/run/media/graze/Big/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/";
-        string there = "/run/media/graze/Big/repos/";
+        string here = "D:/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/";
+        string there = "D:/repos/";
         foreach (var entry in paths)
         {
             try

@@ -608,9 +608,9 @@ namespace MMD
 		}
 
 		// 物理素材の定義
-		PhysicMaterial CreatePhysicMaterial(PMDFormat.Rigidbody rigid)
+		PhysicsMaterial CreatePhysicMaterial(PMDFormat.Rigidbody rigid)
 		{
-			PhysicMaterial material = new PhysicMaterial(format_.name + "_r" + rigid.rigidbody_name);
+			PhysicsMaterial material = new PhysicsMaterial(format_.name + "_r" + rigid.rigidbody_name);
 			material.bounciness = rigid.rigidbody_recoil;
 			material.staticFriction = rigid.rigidbody_friction;
 			material.dynamicFriction = rigid.rigidbody_friction;
@@ -627,18 +627,18 @@ namespace MMD
 			{
 				targetBone.GetComponent<Rigidbody>().isKinematic = (0 == rigidbody.rigidbody_type);
 				targetBone.GetComponent<Rigidbody>().mass = Mathf.Max(float.Epsilon, rigidbody.rigidbody_weight);
-				targetBone.GetComponent<Rigidbody>().drag = rigidbody.rigidbody_pos_dim;
-				targetBone.GetComponent<Rigidbody>().angularDrag = rigidbody.rigidbody_rot_dim;
+				targetBone.GetComponent<Rigidbody>().linearDamping = rigidbody.rigidbody_pos_dim;
+				targetBone.GetComponent<Rigidbody>().angularDamping = rigidbody.rigidbody_rot_dim;
 			}
 			else
 			{
 				// Rigidbodyはボーンに対して適用されるので複数ある場合は平均を取る
 				targetBone.GetComponent<Rigidbody>().mass += rigidbody.rigidbody_weight;
-				targetBone.GetComponent<Rigidbody>().drag += rigidbody.rigidbody_pos_dim;
-				targetBone.GetComponent<Rigidbody>().angularDrag += rigidbody.rigidbody_rot_dim;
+				targetBone.GetComponent<Rigidbody>().linearDamping += rigidbody.rigidbody_pos_dim;
+				targetBone.GetComponent<Rigidbody>().angularDamping += rigidbody.rigidbody_rot_dim;
 				targetBone.GetComponent<Rigidbody>().mass *= 0.5f;
-				targetBone.GetComponent<Rigidbody>().drag *= 0.5f;
-				targetBone.GetComponent<Rigidbody>().angularDrag *= 0.5f;
+				targetBone.GetComponent<Rigidbody>().linearDamping *= 0.5f;
+				targetBone.GetComponent<Rigidbody>().angularDamping *= 0.5f;
 			}
 		}
 

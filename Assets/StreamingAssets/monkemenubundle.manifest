@@ -1,12 +1,16 @@
 ManifestFileVersion: 0
-CRC: 813409627
+UnityVersion: 6000.1.9f1
+CRC: 4118987606
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 207b47757ee838ee91c4f99bbfd28bc0
+    Hash: d1e7984d8f33f63d9fea5b5dd90eee7c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 189354e5f22594bf02678bc9cc4b66bf
+    Hash: 68b980903c1c0371dcfd0aaa45b0a536
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e3a32fbb96f5987ac3dbacfd83f6372b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -42,15 +46,15 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 120
@@ -304,4 +308,4 @@ Assets:
 - Assets/BundledAssets/Bark/Sounds/Dash Charge.mp3
 - Assets/BundledAssets/Bark/Model/portal-gun/Materials/internal_ground_ao_texture.jpeg
 Dependencies:
-- C:/Users/CDub/Documents/grah tay/GrateUnity/Assets/StreamingAssets/lcabundle
+- D:/Graze/Documents/GitHub/GrateUnity/GrateUnity/Assets/StreamingAssets/lcabundle
